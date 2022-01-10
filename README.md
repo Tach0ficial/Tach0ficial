@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tach0ficial&label=Profile%20views&color=0e75b6&style=flat-square" alt="tach0ficial" /> </p>
 
-- 🌱 I’m currently learning **angular,react...**
+- 🌱 I’m currently learning **react...**
 
 - 👨‍💻 All of my projects are available at [https://tach0ficial.github.io/web/](https://tach0ficial.github.io/web/)
 
