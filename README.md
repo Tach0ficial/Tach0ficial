@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tach0ficial.github.io/web/](https://tach0ficial.github.io/web/)
 
-- 💬 Ask me about **java,python...**
+- 💬 Ask me about **java,python,php...**
 
 - 📫 How to reach me **carloshidalgorisco@gmail.com**
 
