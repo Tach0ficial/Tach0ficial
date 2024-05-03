@@ -4,17 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tach0ficial&label=Profile%20views&color=0e75b6&style=flat-square" alt="tach0ficial" /> </p>
 
-- 🌱 I’m currently learning **angular...**
+- 🅰️ Angular developer
 
 - 👨‍💻 All of my projects are available at [https://tach0ficial.github.io/web/](https://tach0ficial.github.io/web/)
 
-- 💬 Ask me about **angular,java,php...**
+- 💬 Ask me about **Angular, javascript, php...**
 
 - 📫 How to reach me **carloshidalgorisco@gmail.com**
 
 - 📄 Know about my experiences [https://tach0ficial.github.io/web/#experience](https://tach0ficial.github.io/web/#experience)
-
-- ⚡ Fun fact **I think I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
